@@ -19,3 +19,7 @@ Draws from:
 
 Official MISP installation guides: https://misp.github.io/MISP
 
+Usage: sudo ./mispinstall.sh
+
+Ensure that you make the script executable: sudo chmod +x mispinstall.sh
+
